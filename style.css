@@ -1,0 +1,15 @@
+img {
+width: 200px;
+border-radius: 10px;
+transition:transform 0.3s ease;
+}
+body{
+text-align:center;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background: orange;
+color:bisque;
+}
+
+img:hover {
+transform:scale(1.1);
+}
